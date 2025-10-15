@@ -7,14 +7,14 @@ The job file organizer/tracker is a web app used to organize and track any job a
 -- Local data persistence with localStorage
 
 # Tech Stack
-Frontend
+Frontend:
 -- React 18 + TypeScript
 -- Vite (build tool)
 -- Tailwind CSS + shadcn/ui
 -- React Hooks for state management
 -- SheetJS (xlsx) for Excel export
 
-Backend
+Backend:
 -- None (fully client-side application)
 -- localStorage for data persistence
 
@@ -29,7 +29,7 @@ Backend
      npm run build
 
 # Usage
-Input
+Inputs:
 1. Paste job posting URL in the text field
 2. Click "Add Job" - data auto-extracts and adds to table
 3. Manually update status via dropdown as needed
@@ -45,7 +45,7 @@ Tracked Data (8 fields):
 -- Paid/Unpaid
 -- Job Description Summary
 
-Output
+Outputs:
 -- Excel file: Internship_Tracking_[Date].xlsx
 -- Contains all applications with current status
 -- Download anytime via "Download as Excel" button
