@@ -1,13 +1,12 @@
-Internship Tracker
-A web app to organize and track internship applications across multiple job platforms.
-Features
+The job tracker is A web app to organize and track internship applications across multiple job platforms.
+# Features
 -- Paste job posting URLs to automatically extract application data
 -- Track applications from LinkedIn, Handshake, Indeed, and other major platforms
 -- Update application status inline (Applied, Interview, Rejected, Offer, Accepted)
 -- Export to Excel spreadsheet
 -- Local data persistence with localStorage
 
-Tech Stack
+# Tech Stack
 Frontend
 -- React 18 + TypeScript
 -- Vite (build tool)
@@ -23,13 +22,13 @@ Quick Start
 #Install dependencies
 npm install
 
-# Start dev server (runs on localhost:8080)
+Start dev server (runs on localhost:8080)
 npm run dev
 
-# Build for production
+Build for production
 npm run build
 
-Usage
+# Usage
 Input
 1. Paste job posting URL in the text field
 2. Click "Add Job" - data auto-extracts and adds to table
@@ -57,5 +56,3 @@ Data Storage:
 --- Backup: Download Excel file regularly
 -- Clear data: Clear browser storage
 
-Browser Support: Chrome, Firefox, Safari, Edge (latest versions)
-License: MIT
