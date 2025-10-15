@@ -18,14 +18,14 @@ Backend
 -- None (fully client-side application)
 -- localStorage for data persistence
 
-Quick Start
-# Install dependencies
+# Quick Start
+Install dependencies
   npm install
 
-# Start dev server (runs on localhost:8080)
+Start dev server (runs on localhost:8080)
   npm run dev
 
-# Build for production
+Build for production
   npm run build
 
 # Usage
