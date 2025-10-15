@@ -30,9 +30,9 @@ The job file organizer/tracker is a web app used to organize and track any job a
 
 # Usage
     Inputs:
-    1. Paste job posting URL in the text field
-    2. Click "Add Job" - data auto-extracts and adds to table
-    3. Manually update status via dropdown as needed
+    -- Paste job posting URL in the text field
+    -- Click "Add Job" - data auto-extracts and adds to table
+    -- Manually update status via dropdown as needed
 
     Tracked Data (8 fields):
 
@@ -53,6 +53,6 @@ The job file organizer/tracker is a web app used to organize and track any job a
     Data Storage:
     -- All data stored in browser localStorage
     -- Persists across sessions
-    --- Backup: Download Excel file regularly
+    -- Backup: Download Excel file regularly
     -- Clear data: Clear browser storage
 
