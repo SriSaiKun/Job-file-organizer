@@ -1,4 +1,4 @@
-The job tracker is A web app to organize and track internship applications across multiple job platforms.
+The job tracker is a web app used to organize and track internship applications across multiple job platforms.
 # Features
 -- Paste job posting URLs to automatically extract application data
 -- Track applications from LinkedIn, Handshake, Indeed, and other major platforms
