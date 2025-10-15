@@ -19,14 +19,14 @@ Backend
 -- localStorage for data persistence
 
 Quick Start
-#Install dependencies
-npm install
+# Install dependencies
+  npm install
 
-Start dev server (runs on localhost:8080)
-npm run dev
+# Start dev server (runs on localhost:8080)
+  npm run dev
 
-Build for production
-npm run build
+# Build for production
+  npm run build
 
 # Usage
 Input
